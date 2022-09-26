@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
 
 
-<center>Hello, nice to meet you!🙂👋</center>
+<div align="center">Hello, nice to meet you!🙂👋
 
 I am a junior developer who believes in 'steadiness' rather than 'talent'.✨
 
@@ -34,8 +34,7 @@ I dream of being a 'REAL' full-stack developer.🚩
 <b><h4>📌 T O D A Y 📌</h4></b>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddururiiiiiii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</center>
-
+</div>
 
 
 

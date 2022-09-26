@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hello%20Im%20seul%20gi&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
 
 
 <center>Hello, nice to meet you!🙂👋

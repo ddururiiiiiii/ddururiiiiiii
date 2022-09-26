@@ -9,7 +9,7 @@ I dream of being a 'REAL' full-stack developer.🚩
   
 <br>
   
-<b><h4>⛏ S K I L L S ⛏</h4></b>
+<b><h4>⛏ T O O L S & S K I L L S ⛏</h4></b>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black)]()

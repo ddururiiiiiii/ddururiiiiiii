@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seulgiKong&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20imseulgi&fontSize=50" />
 
 
 <center>Hello, nice to meet you!🙂👋

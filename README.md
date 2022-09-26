@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
 
 
-<center>Hello, nice to meet you!🙂👋
+<center>Hello, nice to meet you!🙂👋</center>
 
 I am a junior developer who believes in 'steadiness' rather than 'talent'.✨
 
@@ -27,7 +27,7 @@ I dream of being a 'REAL' full-stack developer.🚩
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=black)](https://twitter.com/ddururiiiiiii)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Blogger&logoColor=black)](https://ddururiiiiiii.tistory.com/)
-[![Mail](https://img.shields.io/badge/Mail-FFE01B?style=flat-square&logo=Minutemailer&logoColor=black)](mailto:workingsg@daum.net)
+[![Mail](https://img.shields.io/badge/Mail-FFE01B?style=flat-square&logo=Minutemailer&logoColor=black)](mailto:workingsg913@gmail.com)
 
 <br>
 

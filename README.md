@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
 
 
-<div align="center">Hello, nice to meet you!🙂👋
+Hello, nice to meet you!🙂👋
 
 I am a junior developer who believes in 'steadiness' rather than 'talent'.✨
 

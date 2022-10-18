@@ -2,7 +2,7 @@
 
 
 Hello, nice to meet you!🙂👋
-
+ 
 I am a junior developer who believes in 'steadiness' rather than 'talent'.✨
 
 I dream of being a 'REAL' full-stack developer.🚩

@@ -1,15 +1,18 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seul%20gi%20Kong&fontSize=40" />
 
 
-Hello, nice to meet you!🙂👋
- 
-I am a junior developer who believes in 'steadiness' rather than 'talent'.✨
-
+Hello, nice to meet you!🙂👋<br>
+I'm a developer who has a talent for 'steady things'.✨<br>
 I dream of being a 'REAL' full-stack developer.🚩
-  
+
+
+ I am a backend engineer specializing in Java and Spring.<br>
+ I try to implement easy-to-read and reusable code.<br>
+ I think about understanding the domain and the better experience of the user as my top priority.<br>
+ I aim for a culture that grows and shares together.<br>
 <br>
   
-<b><h4>⛏ T O O L S & S K I L L S ⛏</h4></b>
+<b><h3>⛏ Skills ⛏</h3></b>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -34,7 +37,7 @@ I dream of being a 'REAL' full-stack developer.🚩
 
 <br>
   
-<b><h4>☎ C O N T A C T ☎</h4></b>
+<b><h3>☎ Contact ☎</h3></b>
 
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ddururiiiiiii)

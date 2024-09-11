@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seul%20gi%20Kong&fontSize=50" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seul%20gi%20Kong&fontSize=40" />
 
 
 Hello, nice to meet you!🙂👋
@@ -24,6 +24,7 @@ I dream of being a 'REAL' full-stack developer.🚩
 <br>
   
 <b><h4>☎ C O N T A C T ☎</h4></b>
+
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=black)](https://twitter.com/ddururiiiiiii)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Blogger&logoColor=black)](https://ddururiiiiiii.tistory.com/)

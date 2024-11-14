@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seul%20gi%20Kong&fontSize=40" />
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ddururi&fontSize=40" />
 
 Hello, nice to meet you!🙂👋<br>
 I'm a developer who has a talent for 'steady things'.✨<br>

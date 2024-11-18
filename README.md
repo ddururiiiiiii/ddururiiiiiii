@@ -1,7 +1,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ddururiiiiiii&fontSize=40" />
 
 Hello, nice to meet you!🙂👋<br>
-I'm a developer who has a talent for 'steady things'.✨<br>
+I'm a Back-end developer who has a talent for 'steady things'.✨<br>
 I dream of being a 'REAL' full-stack developer.🚩
 
  I am a backend engineer specializing in Java and Spring.<br>
@@ -15,7 +15,7 @@ Other retrospectives, reading logs, conference reviews, development logs, etc. c
 <hr>
 
 안녕하세요 뚜루리입니다:) 🙂👋<br>
-<U>'꾸준히 하는 것'</U>에 재능이 있고, 풀스택 개발자를 꿈꾸고 있습니다.<br>
+<U>'꾸준히 하는 것'</U>에 재능이 있고, 풀스택 개발자를 꿈꾸는 백엔드 개발자입니다.<br>
 
 Java와 Spring을 주로 사용하는 백엔드 개발자로<br>
 <u>읽기 쉽고 재사용이 가능한 코드</u>를 구현하려고 노력하며<br>

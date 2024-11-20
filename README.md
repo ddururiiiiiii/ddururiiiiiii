@@ -61,7 +61,7 @@ Java와 Spring을 주로 사용하는 백엔드 개발자로<br>
 
 <br>
 
-<b><h4>📌 T O D A Y 📌</h4></b>
+<b><h4>📌 Today 📌</h4></b>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddururiiiiiii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
